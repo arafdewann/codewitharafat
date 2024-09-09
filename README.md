@@ -40,5 +40,6 @@ To run the project locally, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/arafdewann/portfolio-website-next-level.git
-   cd portfolio-website-next-level
+git clone https://github.com/arafdewann/codewitharafat.git
+cd codewitharafat
+
