@@ -12,14 +12,7 @@ The portfolio serves as a central hub for:
 
 The goal of this project is to continuously improve the site’s functionality and design, keeping it up-to-date with the latest trends in web development and enhancing the user experience.
 
-## Key Features
 
-- **Responsive Design**: The portfolio adapts to all device screen sizes, ensuring a seamless user experience on mobile, tablet, and desktop.
-- **Project Showcase**: Each project is displayed with live demo links, GitHub repositories, and detailed descriptions of my role and the technologies used.
-- **Blog Section**: A space for sharing thoughts, tutorials, and insights on web development, DevOps, and other technical topics.
-- **Dynamic Content**: Content such as projects and blogs can be updated easily without touching the code, using a CMS or API integration.
-- **SEO Optimization**: Built with search engine optimization in mind, making it easier for potential recruiters to find me online.
-- **Contact Form**: A secure and functional contact form for inquiries and networking.
 
 ## Technologies Used
 
